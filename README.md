@@ -127,6 +127,9 @@ And then just compile using make.
 
 Aside from gcc/g++ or clang, you will also need liblz4-dev and libuv-dev, or similar.
 
+```sh
+sudo apt-get install zlib1g-dev liblz4-dev libuv1-dev
+```
 
 Credits and licensing
 ===========
